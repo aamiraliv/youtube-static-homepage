@@ -1,0 +1,30 @@
+.side-bar{
+    width: 70px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10px;
+
+}
+.side-bar img{
+    width: 30px;
+}
+.side-bar p{
+    font-size: 12px;
+    text-transform: capitalize;
+    margin-top: 5px;
+    text-align: center;
+}
+.subs img{
+    margin-left: 15px;
+}
+.y-music img{
+    margin-left: 20px;
+}
